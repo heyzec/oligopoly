@@ -25,6 +25,7 @@
         buildInputs = with pkgs; [
           poetry
           pyright
+          entr
         ];
 
         shellHook =

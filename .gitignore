@@ -2,4 +2,7 @@
 .direnv/
 
 # Python
-.__pycache__/
+__pycache__/
+
+# don't accidentally commit PDFs
+*.pdf
